@@ -1,0 +1,8 @@
+{
+   "example1": {
+        "sounds": [{ "name": "examplemod:test1", "stream": true }]
+    },
+	"example2": {
+		"sounds": [{ "name": "examplemod:test2", "stream": true }]
+	}
+}

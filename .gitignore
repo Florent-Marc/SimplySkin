@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/build/
+/run/
+/.idea/
+/.idea_modules/
+/auto-created
+/auto-texture/
+/run/
